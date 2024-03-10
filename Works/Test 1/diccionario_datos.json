@@ -1,0 +1,14 @@
+{
+    "Age": "Age of participant, its in days (integer)",
+    "Gender": "Gender of participant (male/female).",
+    "Height": "Height measured in centimeters (integer)",
+    "Weight": "Weight measured in kilograms (integer)",
+    "Ap_hi": "Systolic blood pressure reading taken from patient (integer)",
+    "Ap_lo" : "Diastolic blood pressure reading taken from patient (integer)",
+    "Cholesterol" : "Total cholesterol level read as mg/dl on a scale 0 - 5+ units( integer). Each unit denoting increase/decrease by 20 mg/dL respectively.",
+    "Gluc" : "Glucose level read as mmol/l on a scale 0 - 16+ units( integer). Each unit denoting increase Decreaseby 1 mmol/L respectively.",
+    "Smoke": "Whether person smokes or not(binary; 0= No , 1=Yes).",
+    "Alco": "Whether person drinks alcohol or not(binary; 0 =No ,1 =Yes ).",
+    "Active" : "whether person physically active or not( Binary ;0 =No,1 = Yes ).",
+    "Cardio": "whether person suffers from cardiovascular diseases or not(Binary ; 0-no , 1-yes )."
+}
