@@ -1,0 +1,7 @@
+{
+    "organism": {
+        "name": "Caenorhabditis elegans",
+        "description": "Is a free-living transparent nematode about 1 mm in length[7] that lives in temperate soil environments",
+        "sequence": "agcacatgacatgagcagtgccccaaatgatgactgtgagatcgacaagggaacaccttctaccgcttcactttttacaacgctgatgctcagtcaaccatcttcttctacagctgttttacagtgtacatattgtggaagctcgtgcacatcttcccaattgcaaacatgtttattctg"
+    }
+}

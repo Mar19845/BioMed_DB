@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sequence>
+<accession>NM-171533</accession>
+<organism>
+    <name>Caenorhabditis elegans</name>
+    <description> Is a free-living transparent nematode about 1 mm in length[7] that lives in temperate soil environments.</description>
+</organism>
+<sequence-data>
+agcacatgacatgagcagtgccccaaatgatgactgtgagatcgacaaggg
+aacaccttctaccgcttcactttttacaacgctgatgctcagtcaaccatcttcttct
+acagctgttttacagtgtacatattgtggaagctcgtgcacatcttcccaattgca
+aacatgtttattctg
+</sequence-data>
+</Sequence>
